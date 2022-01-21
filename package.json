@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alexjamesmalcolm/cheating-at-wordle/issues"
   },
-  "homepage": "https://github.com/alexjamesmalcolm/cheating-at-wordle#readme"
+  "homepage": "https://github.com/alexjamesmalcolm/cheating-at-wordle#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
 }
