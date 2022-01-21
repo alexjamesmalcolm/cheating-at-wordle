@@ -1,3 +1,3 @@
-# Cheating at World
+# Cheating at Wordle
 
 > Cheaters never prosper
