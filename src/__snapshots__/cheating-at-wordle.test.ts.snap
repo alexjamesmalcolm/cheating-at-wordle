@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`cheatAtWordle should guess BIRCH 1`] = `
+Array [
+  "AROSE",
+  "RUTIC",
+  "CHIRM",
+  "BIRCH",
+]
+`;
+
+exports[`cheatAtWordle should guess LURCH 1`] = `
+Array [
+  "AROSE",
+  "RUTIC",
+  "CURLY",
+  "LURCH",
+]
+`;
+
+exports[`cheatAtWordle should guess POETRY 1`] = `
+Array [
+  "LINEAR",
+  "TROUSE",
+  "REDTOP",
+  "POETRY",
+]
+`;
+
+exports[`cheatAtWordle should guess PORCH 1`] = `
+Array [
+  "AROSE",
+  "TURIO",
+  "CORNY",
+  "PORCH",
+]
+`;
+
+exports[`cheatAtWordle should guess TAPIR 1`] = `
+Array [
+  "AROSE",
+  "HAIRY",
+  "CARIB",
+  "RAPID",
+  "TAPIR",
+]
+`;
+
+exports[`cheatAtWordle should guess WANGO 1`] = `
+Array [
+  "AROSE",
+  "CANTO",
+  "BANJO",
+  "WANGO",
+]
+`;
