@@ -1,7 +1,7 @@
 import { getWordsOfNLength } from "./dictionary";
 import { getRandomElementFromList } from "./getRandomElementFromList";
 
-type Color = "Yellow" | "Green" | "Gray";
+export type Color = "Yellow" | "Green" | "Gray";
 export type Result = Color[];
 
 export type Game = (guess: string) => Result;

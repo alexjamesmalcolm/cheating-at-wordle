@@ -1,56 +1,4811 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Able to solve every 5 letter word should solve AGAMA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CADGY",
+    "AGAMA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve ALGAL 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "BLADY",
+    "ALGAL",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve ALLOO 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Green",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "INLAW",
+    "ODMYL",
+    "ALLOO",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve ALLYL 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Yellow",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "BLADY",
+    "ALLYL",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve APPAY 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CADGY",
+    "APPAY",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve ARARA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Green",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Yellow",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "BIGLY",
+    "ARRHA",
+    "ARARA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve ARRHA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Green",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "BIGLY",
+    "ARRHA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve ASSAY 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Green",
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Gray",
+      "Yellow",
+      "Yellow",
+      "Yellow",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "TUNIC",
+    "ADAYS",
+    "ASSAY",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve BATTA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CHYME",
+    "BATTA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve BEEVE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "GLINT",
+    "HUMPY",
+    "BEEVE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve BELEE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Gray",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "GLINT",
+    "DUCHY",
+    "BEGEM",
+    "BELEE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve BELLE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "GLINT",
+    "DUCHY",
+    "BEGEM",
+    "BELLE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve BENNE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "GLINT",
+    "HEMPY",
+    "BENNE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve BERBE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LINUM",
+    "VELDT",
+    "BEEFY",
+    "BERBE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve BESEE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Yellow",
+      "Green",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNITY",
+    "DELPH",
+    "SEGGE",
+    "BESEE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve BUBBY 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CUTIN",
+    "GLYPH",
+    "FUMID",
+    "BUBBY",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve CAADA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CADGY",
+    "CAADA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve CACAO 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CLANG",
+    "COMPT",
+    "CABOB",
+    "CACAO",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve CAECA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "PLANT",
+    "CADGY",
+    "CAECA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve CALLA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Gray",
+      "Yellow",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "PYGMY",
+    "CHALK",
+    "CALLA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve CARAC 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LITHY",
+    "UNDAM",
+    "CARAC",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve CIRRI 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CUBIT",
+    "NYMPH",
+    "CIRRI",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve COCOA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CLANG",
+    "COMPT",
+    "COBIA",
+    "COCOA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve DADDY 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CADGY",
+    "PAWKY",
+    "DADDY",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve DEEDY 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CHEVY",
+    "WEEDY",
+    "DEEDY",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve DEESS 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LIGHT",
+    "NEWSY",
+    "DEESS",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve DERRE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LINUM",
+    "VELDT",
+    "DERRE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve DETTE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "GLINT",
+    "HUMPY",
+    "FETTE",
+    "DETTE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve EAGER 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Yellow",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CETYL",
+    "DWANG",
+    "JUGER",
+    "GAGER",
+    "EAGER",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve ECCLE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "GLINT",
+    "DUCHY",
+    "ECCLE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve EDDER 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+      "Yellow",
+    ],
+    Array [
+      "Green",
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LITHY",
+    "UNBED",
+    "EMMEW",
+    "EDDER",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve EFFET 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Yellow",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "WHEFT",
+    "EFFET",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve ELEVE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "GLINT",
+    "PLUME",
+    "ELEVE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve ETTLE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "GLINT",
+    "HULLY",
+    "ETTLE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve ETWEE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Yellow",
+      "Yellow",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "GLINT",
+    "HUMPY",
+    "FETTE",
+    "ETWEE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve FEESE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LINCH",
+    "GUSTY",
+    "FEESE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve FEMME 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "GLINT",
+    "HUMPY",
+    "FEMME",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve FLUFF 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CUTIN",
+    "PLUMB",
+    "FLUKY",
+    "FLUFF",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve GAMMA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CADGY",
+    "GAMBA",
+    "GAMMA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve GESSE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LINCH",
+    "GUSTY",
+    "GESSE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve HENEN 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "HENDY",
+    "HENEN",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve HOCCO 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Yellow",
+      "Green",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "DOBBY",
+    "COMPO",
+    "HOCCO",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve ILIAL 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Green",
+    ],
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "APHID",
+    "ILIAL",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve INION 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Gray",
+      "Green",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "ICING",
+    "INION",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve KAYAK 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CADGY",
+    "KAYAK",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve KEEVE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "GLINT",
+    "HUMPY",
+    "BEEVE",
+    "KEEVE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve LEEME 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Yellow",
+      "Yellow",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "GLINT",
+    "DUCHY",
+    "BEGEM",
+    "LEEME",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve LEERE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Gray",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LINUM",
+    "LEPRE",
+    "LEERE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve LEVEL 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "BEDEW",
+    "KEVEL",
+    "LEVEL",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve LLAMA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Yellow",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "PYGMY",
+    "HALMA",
+    "LLAMA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve LOTTO 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "LOTTO",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve MADAM 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CADGY",
+    "MADAM",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve MAGMA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Yellow",
+      "Green",
+      "Yellow",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CADGY",
+    "GAMBA",
+    "MAGMA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve MALMA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "PYGMY",
+    "HALMA",
+    "MALMA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve MAMMA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CADGY",
+    "KEMPE",
+    "MAMMA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve MAMMY 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CADGY",
+    "KEMPE",
+    "MAMMY",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve MANNA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Yellow",
+      "Yellow",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CADGY",
+    "PAVAN",
+    "MANNA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve METTE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "GLINT",
+    "HUMPY",
+    "METTE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve MIMIC 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CUTIN",
+    "LYMPH",
+    "MIMIC",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve MINIM 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CUTIN",
+    "FILMY",
+    "MINIM",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve MOMOT 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "COMPT",
+    "MOMOT",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve MORMO 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Yellow",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CUTIN",
+    "DORMY",
+    "MORMO",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve MUMMY 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CUTIN",
+    "GLYPH",
+    "FUMID",
+    "MUMMY",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve NANNY 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Yellow",
+      "Yellow",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CADGY",
+    "PAVAN",
+    "NANNY",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve NASSA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Yellow",
+      "Yellow",
+      "Yellow",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LYNCH",
+    "SNAST",
+    "NASSA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve NEVEN 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "HENDY",
+    "NEVEW",
+    "NEVEN",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve NINNY 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CUTIN",
+    "BLADY",
+    "NYMPH",
+    "NINNY",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve NONNE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LINUM",
+    "FACET",
+    "BONZE",
+    "NONNE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve ONION 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Yellow",
+      "Gray",
+      "Green",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "ICING",
+    "ONION",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve PALLA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Yellow",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "PYGMY",
+    "PLACK",
+    "PALLA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve PAPPY 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CADGY",
+    "KEMPE",
+    "PAPPY",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve POTOO 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "NYMPH",
+    "POTOO",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve POTTO 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Yellow",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "NYMPH",
+    "POTOO",
+    "POTTO",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve PUPPY 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CUTIN",
+    "GLYPH",
+    "JUMPY",
+    "PUPPY",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve REDDE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Yellow",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LINUM",
+    "VELDT",
+    "FERDE",
+    "REDDE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve REEVE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Yellow",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Yellow",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LINUM",
+    "VELDT",
+    "KERVE",
+    "REEVE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve RETTE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LINUM",
+    "VELDT",
+    "PERCH",
+    "RETTE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve ROTOR 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Yellow",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CUTIN",
+    "MOTOR",
+    "ROTOR",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve SARSA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Yellow",
+      "Gray",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "HUMIC",
+    "SARSA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve SASSE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "PILCH",
+    "TUSKY",
+    "SASSE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve SENSE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LINCH",
+    "KEMPT",
+    "SENSE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve SETEE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNITY",
+    "BEVEL",
+    "SETEE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve SLYLY 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Green",
+      "Yellow",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "SYLPH",
+    "SLYLY",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve SPISS 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "WHIPT",
+    "SPISS",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve SWISS 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+    ],
+    Array [
+      "Yellow",
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "WHIPT",
+    "SWISS",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve TATTA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CHYME",
+    "BATTA",
+    "TATTA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve TATTY 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Yellow",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CHYME",
+    "ABAFT",
+    "PATTY",
+    "TATTY",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve TEETH 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Green",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "WHEFT",
+    "MEETH",
+    "TEETH",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve TENNE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+      "Yellow",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Gray",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "GLINT",
+    "TEYNE",
+    "TENNE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve TEPEE 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "GLINT",
+    "HUMPY",
+    "TEPEE",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve TERET 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Yellow",
+      "Green",
+      "Gray",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LITHY",
+    "BEGUN",
+    "PEWET",
+    "REVET",
+    "TERET",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve TETEL 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "TECHY",
+    "TETEL",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve TOOTH 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LYNCH",
+    "THUMB",
+    "TOOTH",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve TOSTO 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LINUM",
+    "TYPIC",
+    "TOSTO",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve TUTTI 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CUTIN",
+    "TUTTI",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve TUTTY 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CUTIN",
+    "BULGY",
+    "JUMPY",
+    "TUTTY",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve UNNUN 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CUTIN",
+    "UNNUN",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve UPUPA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Gray",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "UPHAF",
+    "UPUPA",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve URUBU 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Green",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "TULIP",
+    "DUNGY",
+    "CRUMB",
+    "URUBU",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve XYLYL 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CUTIN",
+    "GLYPH",
+    "XYLYL",
+  ],
+  "won": true,
+}
+`;
+
+exports[`Able to solve every 5 letter word should solve YAMMA 1`] = `
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Gray",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Green",
+      "Yellow",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "UNTIL",
+    "CADGY",
+    "KAYAK",
+    "YAMMA",
+  ],
+  "won": true,
+}
+`;
+
 exports[`cheatAtWordle should guess BIRCH 1`] = `
-Array [
-  "AROSE",
-  "RUTIC",
-  "CHIRM",
-  "BIRCH",
-]
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Yellow",
+      "Gray",
+      "Yellow",
+      "Yellow",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CUBIT",
+    "BIRCH",
+  ],
+  "won": true,
+}
 `;
 
 exports[`cheatAtWordle should guess LURCH 1`] = `
-Array [
-  "AROSE",
-  "RUTIC",
-  "CURLY",
-  "LURCH",
-]
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Yellow",
+      "Green",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Yellow",
+      "Green",
+      "Gray",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CUBIT",
+    "RUNCH",
+    "LURCH",
+  ],
+  "won": true,
+}
 `;
 
 exports[`cheatAtWordle should guess POETRY 1`] = `
-Array [
-  "LINEAR",
-  "TROUSE",
-  "REDTOP",
-  "POETRY",
-]
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Yellow",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Gray",
+      "Gray",
+      "Green",
+      "Green",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "LINEAR",
+    "CUTOSE",
+    "POWDRY",
+    "POETRY",
+  ],
+  "won": true,
+}
 `;
 
 exports[`cheatAtWordle should guess PORCH 1`] = `
-Array [
-  "AROSE",
-  "TURIO",
-  "CORNY",
-  "PORCH",
-]
+Object {
+  "colors": Array [
+    Array [
+      "Gray",
+      "Yellow",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CUTIN",
+    "PORCH",
+  ],
+  "won": true,
+}
 `;
 
 exports[`cheatAtWordle should guess TAPIR 1`] = `
-Array [
-  "AROSE",
-  "HAIRY",
-  "CARIB",
-  "RAPID",
-  "TAPIR",
-]
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Yellow",
+      "Gray",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Yellow",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Yellow",
+      "Yellow",
+      "Yellow",
+      "Gray",
+      "Yellow",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "LITHY",
+    "PRINT",
+    "TAPIR",
+  ],
+  "won": true,
+}
 `;
 
 exports[`cheatAtWordle should guess WANGO 1`] = `
-Array [
-  "AROSE",
-  "CANTO",
-  "BANJO",
-  "WANGO",
-]
+Object {
+  "colors": Array [
+    Array [
+      "Yellow",
+      "Gray",
+      "Yellow",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Gray",
+      "Gray",
+      "Yellow",
+      "Yellow",
+      "Yellow",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Gray",
+      "Gray",
+    ],
+    Array [
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+      "Green",
+    ],
+  ],
+  "guesses": Array [
+    "AROSE",
+    "CLANG",
+    "WANDY",
+    "WANGO",
+  ],
+  "won": true,
+}
 `;
